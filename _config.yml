@@ -28,14 +28,14 @@ baseurl                  : ""         # -> ""
 repository               : "bryngrant/bryngrant.github.io"  # -> "yourusername/yourusername.github.io"
 title                    : "Bryn Grant's Portfolio" # the name shown in the maroon header bar and browser tab
 author:
-  name     : "Robin Hokie"
+  name     : "Bryn Grant"
   avatar   : "/images/bio-photo.jpg"
   bio      : "Senior, School of Communication, Virginia Tech. Interested in how human communicators build meaning in AI-mediated environments."
   location : "Blacksburg, VA"
-  email    : "robin.hokie@vt.edu"
-  github   : "robinhokie"    # username only, no URL — set blank to hide
-  instagram: "robinhokie"    # username only, no URL — set blank to hide
-  linkedin : "robinhokie"    # username only, no URL — set blank to hide
+  email    : "bryngrant@vt.edu"
+  github   : "bryngrant"    # username only, no URL — set blank to hide
+  instagram: "bryngranttt"    # username only, no URL — set blank to hide
+  linkedin : "bryngrant"    # username only, no URL — set blank to hide
 # ============================================================
 # END EDIT ZONE
 # Academicpages config continues below this point.
