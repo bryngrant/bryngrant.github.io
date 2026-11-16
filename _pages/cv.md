@@ -18,29 +18,44 @@ redirect_from:
 
 **Virginia Tech**, Blacksburg, VA
 B.A. in Communication, expected May 2027
-Concentration: Strategic Communication and Digital Media
-Minor: Tech for Humanity
+Major: Communication
+Minor: Professional Sales
 
 ## Professional Experience
 
-**Content Coordinator** — Blacksburg Housing Equity Coalition (2024–present)
-- Write and edit community newsletters, grant narratives, and social media content
-- Developed plain-language guide to housing assistance programs (2,400 words,
-  translated into Spanish with assistance from bilingual staff)
-- Introduced an editorial workflow for AI-assisted drafting with disclosure standards
+**Senior Sales Intern** — ELIQUENT Life Sciences (2025–present)
+- Partner with the Sales Enablement team to execute sales strategies, strengthen client outreach, and support opportunities
+throughout the sales cycle.
+- Leverage Salesforce daily to manage leads, track opportunities, maintain pipeline accuracy, and support effective prospect
+and client follow-up.
+- Analyze sales data and Excel reports to identify trends, uncover opportunities, and provide insights that support data-driven
+sales decisions.
+- Develop and manage a centralized SharePoint resource to improve sales team efficiency, streamline access to client-facing
+materials, and strengthen cross-functional collaboration.
+- Lead a team of interns throughout the summer program by establishing project timelines, delegating
+assignments, and facilitating progress meetings to ensure accountability, productivity, and successful
+completion of key deliverables.
 
-**Content Writing Intern** — Roanoke Valley Marketing Group (Summer 2024)
-- Drafted web copy, email campaigns, and blog posts for six regional clients
-- Participated in agency-wide transition to AI drafting tools; contributed to internal
-  style guide update addressing AI-generated content review
 
-## Skills
+**Vice President of Communication** — Delta Gamma Soroity (2025-2026)
+- Draft, revise, and maintain organizational bylaws to ensure clarity, compliance, and alignment with governing policies.
+- Manage and curate social media accounts to enhance engagement and chapter visibility across platforms. Oversee all
+internal and external communications, ensuring timely updates and professionalism.
+- Collaborate with executive leadership to communicate initiatives, events, and policy updates effectively to members
+and stakeholders.
 
-- Writing and editing for multiple registers and audiences
-- Markdown, GitHub Pages, basic HTML
-- APA and AP style
-- HokieAI, ChatGPT (disclosure-compliant use)
-- Spanish (conversational)
+
+**Vice President of Member Education** — Delta Gamma Soroity (2024-2025)
+-  Designed and implemented member education initiatives for a new member class of 68 and 210 active members. Ensured
+education would foster engagement, build character development and align with chapter values.
+- Planned and executed events that supported new members’ transition into the chapter while promoting inclusivity and
+sisterhood.
+- Mediated member concerns and developed effective solutions to maintain a positive and supportive chapter
+environment.
+## Certifications
+
+- SmartFox Salesforce Trailhead CRM, SmartFox Advanced Course, SmartFox Sales Management and Leadership, Issued 2026
+- HubSpot Email Marketing & HubSpot Inbound Marketing Certifications, Issued October 2024
 
 ## Coursework Represented in This Portfolio
 
